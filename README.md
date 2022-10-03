@@ -3,7 +3,7 @@
 - 🌱 I’m currently studying for a computer science degree;
 - JavaScript, React, Angular, mySQL, noSQL, nodeJS, MangoDB;
 - 💞️ I’m looking to collaborate on ... anything tbh ;D
-- 📫 How to reach me https://www.instagram.com/adam_t_goat/
+- 📫 How to reach me https://www.linkedin.com/in/adam-karpovich-26038a206/
 
 <!---
 adamK563/adamK563 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
