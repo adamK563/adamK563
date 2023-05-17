@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @adamK563
+# 👋 I’m @adamK563
 - 📫 How to reach me https://www.linkedin.com/in/adam-karpovich-26038a206/
 
 <!---
